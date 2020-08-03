@@ -277,10 +277,11 @@ async def inv(ctx):
 	if not users[id_string]['cards']:
 		await ctx.send("You don't seem to have any cards yet!")
 	else:
+		#optimize this. we have the technology!
 		embeds = []
 		#print(users[id_string]["cards"])
 		for card in users[id_string]["cards"]:
-			#print(card)
+			#print(card) DEBUG
 			if card[-1] == "1":
 				with open('common.json','r') as co:
 					commonfile = json.load(co)
@@ -323,7 +324,7 @@ async def inv(ctx):
 				card_source =commonfile['legendary'][card]['source']
 				card_image = commonfile['legendary'][card]['img']
 				card_var = commonfile['legendary'][card]['event_variant']
-			#print(card_name, card_source, card_image, card_var)
+			#print(card_name, card_source, card_image, card_var) DEBUG
 			embeds.append(discord.Embed(title="{}".format(card_name),description="SERIES: {}".format(card_source)).set_image(url=card_image))
 		paginator = BotEmbedPaginator(ctx,embeds)
 		return await paginator.run()
@@ -365,22 +366,13 @@ async def buy(ctx):
         e.set_image(url=cardimg)
         await ctx.message.channel.send('You have pulled a(n) {} card! Congratulations!\nSERIES: {}\nCARD: {}'.format(text_result, cardsource, cardname),embed=e)
 
-#async def update_data(users, ctx):
-#	id_string=str(ctx.author.id)
-#	if id_string in users:
-#		pass
-#	else:
-#		users[id_string] = {}
-#		users[id_string]['gems'] = 0
-#		users[id_string]['cards'] = []
-
 async def add_allowance(users, ctx, gems):
 	id_string=str(ctx.author.id)
 	startinggems = users[id_string]['gems']
 	totalgems = int(startinggems + gems)
 	await ctx.send("{}, here is your allowance of {}:gem:. Your account total is now {}:gem:.".format(ctx.author.mention,gems,totalgems))
 	users[id_string]['gems'] += 100
-	#print("lolll", users[ctx.author.id]['gems'])
+	#print(users[ctx.author.id]['gems']) DEBUG
 
 @bot.command()
 async def register(ctx):
@@ -410,7 +402,7 @@ async def on_message(message):
 
 	await bot.process_commands(message)
 
-######################## ERROR EXCEPTIONING OR WHATEVER THIS PART OF THE CODE IS CALLED #############
+######################## ERROR EXCEPTIONING #############
 @bot.event
 async def on_command_error(ctx, error):
 	if isinstance(error,commands.CommandOnCooldown):
@@ -426,7 +418,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-#@commands.cooldown(1, 86400, BucketType.user)
+#@commands.cooldown(1, 86400, BucketType.user) 
 async def daily(ctx, *args):
 	id_string=str(ctx.author.id)
 	with open('users.json', 'r') as f:
@@ -494,4 +486,4 @@ async def allowance(ctx):
 
 
 keep_alive.keep_alive()
-bot.run(os.environ['TOKEN'])
+bot.run(os.environ['TOKEN']) #token env file not uploaded to github for privacy and safety
