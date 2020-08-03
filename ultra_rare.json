@@ -1,0 +1,23 @@
+{"ultra_rare":
+    {
+    "KiD5": {
+        "name":"Kim Kitsuragi"
+        ,"source":"Disco Elysium"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715072116005011466/kim_disco.png"
+        ,"event_variant":"False"
+      },
+
+    "PrS5": {
+        "name":"Princess Peach"
+        ,"source":"Super Mario Bros."
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715072115228803082/princess_super.png"
+        ,"event_variant":"False"
+      },
+
+    "NoS5": {
+        "name":"Norman Pembroke"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715070824591261747/norman.png"
+        ,"event_variant":"False"
+      }
+}}

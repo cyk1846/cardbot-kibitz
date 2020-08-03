@@ -1,0 +1,121 @@
+{"common":
+{
+"AlL1": {
+    "name":"Alistar"
+    ,"source":"League of Legends"
+    ,"img":"https://66.media.tumblr.com/ed18bb0082553c2ad3f986f9d70514d3/97892ac387a38e56-ba/s640x960/9633201b02aac737d94e3ed03318be47051a8a9c.png"
+    ,"event_variant":"False"
+  },
+
+"AnT1": {
+    "name":"Angus McDonald"
+    ,"source":"The Adventure Zone"
+    ,"img":"https://66.media.tumblr.com/413752a805a9c9708082e0a4789d2210/97892ac387a38e56-be/s640x960/61568972cd6cd9a8d69cf8104bea574b95a7d3a5.png"
+    ,"event_variant":"False"
+  },
+
+"DiM1": {
+    "name":"Dickbutt"
+    ,"source":"Meme"
+    ,"img":"https://66.media.tumblr.com/7f09315e40312eaa9356bc0195b47f7c/97892ac387a38e56-84/s640x960/10d93acbf2e50c9b4b6a195cac6e621d753af4b6.png"
+    ,"event_variant":"False"
+  },
+
+"DrP1": {
+    "name":"Dr. Heinz Doofenshmirtz"
+    ,"source":"Phineas and Ferb"
+    ,"img":"https://66.media.tumblr.com/4b77866e9224649e97ef50f7b71604d2/97892ac387a38e56-93/s640x960/2e53d640db2beb923e0d5c4bc333198b5635a647.png"
+    ,"event_variant":"False"
+  },
+
+"DrS1": {
+    "name":"Drinking Bird"
+    ,"source":"Stockphoto"
+    ,"img":"https://66.media.tumblr.com/cfd905a89e2c8933a53de5b1ae41c79e/97892ac387a38e56-bd/s640x960/e8cd74118b5dbc371cde62449b73db42383bca2e.png"
+    ,"event_variant":"False"
+  },
+
+"FrU1": {
+    "name":"Frisk"
+    ,"source":"Undertale"
+    ,"img":"https://66.media.tumblr.com/8755db23da6e2610fcc9952789a0de38/97892ac387a38e56-04/s640x960/d7798d2fe3d701bb4563a3701560d2a06833428f.png"
+    ,"event_variant":"False"
+  },
+
+"GiJ1": {
+    "name":"Giant Enemy Spider"
+    ,"source":"Jerma985"
+    ,"img":"https://66.media.tumblr.com/fead44e21cea1f86c47d149e42cac22a/97892ac387a38e56-48/s640x960/902e1b173366b2c1089a931f41151e3af58ea416.png"
+    ,"event_variant":"False"
+  },
+
+"GuS1": {
+    "name":"Guillotine"
+    ,"source":"Stockphoto"
+    ,"img":"https://66.media.tumblr.com/45e72fae07092e723e2e4abe937c0dad/97892ac387a38e56-ce/s640x960/1b31744d4d0fd7412d8f2638d702042217e6900d.png"
+    ,"event_variant":"False"
+  },
+
+"KrD1": {
+    "name":"Kris"
+    ,"source":"Deltarune"
+    ,"img":"https://66.media.tumblr.com/a2001d41576ec1b1aa7dff10175806fb/278cb60da7200ae9-5f/s640x960/97435459e9650dc50ef7027fa5b09a926c090f03.png"
+    ,"event_variant":"False"
+  },
+
+"LaD1": {
+    "name":"Lancer"
+    ,"source":"Deltarune"
+    ,"img":"https://66.media.tumblr.com/b557d69be0b6894745072c573f6a8ea5/97892ac387a38e56-4b/s640x960/6ad19038abc9a1dd8e1fa0b6b85130f1c933f681.png"
+    ,"event_variant":"False"
+  },
+
+"LeS1": {
+    "name":"Legs"
+    ,"source":"Stockphoto"
+    ,"img":"https://66.media.tumblr.com/0912f6bc4e503a4adb7c6885dd98ab2f/275aae6586bf521d-c7/s640x960/0fdbc22e4e48abd29db066fc5d6f4af2dc47ca84.png"
+    ,"event_variant":"False"
+  },
+
+"LuL1": {
+    "name":"Lumine (Human)"
+    ,"source":"Lumine"
+    ,"img":"https://66.media.tumblr.com/1d456bcb95eed8ad6257f7be64230207/97892ac387a38e56-9b/s640x960/c36a5cde9c79adc0f9e8e7bed76e78dd1165a4c6.png"
+    ,"event_variant":"False"
+  },
+
+"RaD1": {
+    "name":"Ralsei"
+    ,"source":"Deltarune"
+    ,"img":"https://66.media.tumblr.com/60f4161b3eb7540898d989bb8f823c20/275aae6586bf521d-7d/s640x960/0e9bb6b317986cf0ff3ae0f5c858567d72070574.png"
+    ,"event_variant":"False"
+  },
+
+"ScM1": {
+    "name":"Scallop Spiderman"
+    ,"source":"Meme"
+    ,"img":"https://66.media.tumblr.com/71d13b1af191ef856a448d9a4c90d206/275aae6586bf521d-60/s640x960/9f98f3a2459d835d65c29d2b1c913a4b860eedc3.png"
+    ,"event_variant":"False"
+  },
+
+"ShS1": {
+    "name":"Shaggy"
+    ,"source":"Scooby Doo"
+    ,"img":"https://66.media.tumblr.com/b3e00bb2d17c5ae42fbb8333379e0bf2/275aae6586bf521d-8e/s640x960/797a941431fd5203db484465228529e070afc970.png"
+    ,"event_variant":"False"
+  },
+
+"SmJ1": {
+    "name":"Small Enemy Spider"
+    ,"source":"Jerma985"
+    ,"img":"https://66.media.tumblr.com/d1251e0c765de250b0d23140a519d59d/275aae6586bf521d-91/s640x960/feff91d5e748a1131a3555a7d9379fa3e4c0b062.png"
+    ,"event_variant":"False"
+  },
+
+"TrS1": {
+    "name":"Trash"
+    ,"source":"Stockphoto"
+    ,"img":"https://66.media.tumblr.com/6dc202bf4270df5a6521430cb14348fa/275aae6586bf521d-e9/s640x960/3347425fc92c431de78dec42bfe2f46e8f489620.png"
+    ,"event_variant":"False"
+  }
+}}

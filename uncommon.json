@@ -1,0 +1,72 @@
+{"uncommon":
+{
+"SuD2": {
+    "name":"Susie"
+    ,"source":"Deltarune"
+    ,"img":"https://66.media.tumblr.com/165e3d8893887498a252360af63a26a6/b72668e57e5ab363-3c/s640x960/b443f630538b617142213633f67f36257f00dc51.png"
+    ,"event_variant":"N/A"
+  },
+
+"WaD2": {
+    "name":"Warly"
+    ,"source":"Don't Starve"
+    ,"img":"https://66.media.tumblr.com/5beaadb5512a17c21df0604a61f20a63/b72668e57e5ab363-72/s640x960/1c6dee30286c3080c855197c5b6e0368b18b1519.png"
+    ,"event_variant":"N/A"
+  },
+
+"NiF2": {
+    "name":"Nick Valentine"
+    ,"source":"Fallout 4"
+    ,"img":"https://66.media.tumblr.com/fe8d374f7114e0d4bb98ff5a6e985fc9/b72668e57e5ab363-29/s640x960/184cef93f54f1e18cfc2b6ced87cf29c720ee72b.png"
+    ,"event_variant":"N/A"
+  },
+
+"MiH2": {
+    "name":"Mister Cat"
+    ,"source":"Haste's House"
+    ,"img":"https://66.media.tumblr.com/c119409edec3858c95267f7b1aa28e0c/b72668e57e5ab363-6e/s640x960/6dcd723f51544996bed74c4aee553a4b17b5206a.png"
+    ,"event_variant":"N/A"
+  },
+
+"KaK2": {
+    "name":"Kanamori Sayaka"
+    ,"source":"Keep Your Hands Off Eizouken!"
+    ,"img":"https://66.media.tumblr.com/df86e13af600e430f85225b9d382a046/b72668e57e5ab363-86/s640x960/b9c5f4e837437e5e13b1372690bbb549b1a30647.png"
+    ,"event_variant":"N/A"
+  },
+
+"BeK2": {
+    "name":"Benoit Blanc"
+    ,"source":"Knives Out"
+    ,"img":"https://66.media.tumblr.com/7d6868e9c3513e231a9214a4f1a2ed26/b72668e57e5ab363-17/s640x960/c061eadcf7c02ac0f7d4415cf6b4872868d956e6.png"
+    ,"event_variant":"N/A"
+  },
+
+"LuL2": {
+    "name":"Lumine (Puppy)"
+    ,"source":"Lumine"
+    ,"img":"https://66.media.tumblr.com/046ce61341b99126a30c2d2686b73725/b72668e57e5ab363-b5/s640x960/d7e9fc3c579c355c9036963d07550e2e62e563df.png"
+    ,"event_variant":"N/A"
+  },
+
+"PeS2": {
+    "name":"Peacock"
+    ,"source":"Skullgirls"
+    ,"img":"https://66.media.tumblr.com/ddcaf51efa64a91d0ea3a6cecf407dd1/b72668e57e5ab363-4d/s640x960/075352094dcc41b20b1c665f850f65fc1d2333f3.png"
+    ,"event_variant":"N/A"
+  },
+
+"GeS2": {
+    "name":"Geno"
+    ,"source":"Super Mario RPG"
+    ,"img":"https://66.media.tumblr.com/cfc013e15e1348dd8505c8b4ac4b231b/b72668e57e5ab363-9d/s640x960/2f59bd76043db11803d019179000362ab84fcce7.png"
+    ,"event_variant":"N/A"
+  },
+
+"PaU2": {
+    "name":"Papyrus"
+    ,"source":"Undertale"
+    ,"img":"https://66.media.tumblr.com/153911144ade993b6afcb272a3769318/b72668e57e5ab363-8b/s640x960/e062f85282e49cb00a47350be2253313a21e506d.png"
+    ,"event_variant":"N/A"
+  }
+}}

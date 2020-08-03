@@ -1,0 +1,16 @@
+{"legendary":
+    {
+    "RiR6": {
+        "name":"Ricardo Milos"
+        ,"source":"Ricardo Milos"
+        ,"img":"https://66.media.tumblr.com/817ca05ea11ef5acfa9a4c6c3d469adb/e042b4414053ffed-e5/s640x960/16b263c21b603da601c5475569591c2d9c9853d9.gif"
+        ,"event_variant":"False"
+      },
+
+    "SaU6": {
+        "name":"Sans"
+        ,"source":"Undertale"
+        ,"img" :"https://cdn.discordapp.com/attachments/537844484948361227/715032715417878549/sans.png"
+        ,"event_variant":"False"
+      }
+    }}

@@ -1,0 +1,30 @@
+{"super_rare":
+    {
+    "SaH4": {
+        "name":"Sansmaeda"
+        ,"source":"Holly's Mind Palace"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074139366490152/sansmaeda_holly.png"
+        ,"event_variant":"False"
+      },
+
+    "LuL4": {
+        "name":"Lumine (Wolf)"
+        ,"source":"Lumine"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074141442801744/wolf_lumine.png"
+        ,"event_variant":"False"
+      },
+
+    "ZaO4": {
+        "name":"Zacharie"
+        ,"source":"OFF"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074139484061717/zacharie_off.png"
+        ,"event_variant":"False"
+      },
+
+    "HeS4": {
+        "name":"Hey You, You're Finally Awake"
+        ,"source":"Skyrim"
+        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074135176249424/hey_skyrim.png"
+        ,"event_variant":"False"
+      }
+}}

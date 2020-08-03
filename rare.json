@@ -1,0 +1,57 @@
+{"rare":
+    {
+    "TeS3": {
+        "name":"Terelli"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://66.media.tumblr.com/5bb718c69a98a2f3115fbbf84c91eb6f/3a02495911711a67-fc/s540x810/a5f80e2db6cbb7ad85f67d0ef0abb15925b3f407.png"
+        ,"event_variant":"False"
+      },
+    "ShS3": {
+        "name":"Shrike"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://66.media.tumblr.com/6d6c6fcf7db806841214e21eae482754/e042b4414053ffed-37/s640x960/e6bad27fe3d9d3b43081dcabc508b2fd24f3e502.png"
+        ,"event_variant":"False"
+      },
+    "D'S3": {
+        "name":"D'artagnan Pembroke"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://66.media.tumblr.com/f30d2d62f27f6e6797fff4728102d06f/e042b4414053ffed-ee/s640x960/2b0d0a0e4d3009f39afc637d411144b12b01b295.png"
+        ,"event_variant":"False"
+      },
+    "SoS3": {
+        "name":"Soto Boto"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://66.media.tumblr.com/79b7d7b24abe660eedea23d5d8f81af8/e042b4414053ffed-a7/s640x960/f85a5c853eff50f4a5eb4950a589367d60b3f505.png"
+        ,"event_variant":"False"
+      },
+    "AbS3": {
+        "name":"Abigail Mason"
+        ,"source":"Supers and Dragons"
+        ,"img":"https://66.media.tumblr.com/3b717ed6227a7e84c93473d10f103abf/e042b4414053ffed-9b/s640x960/409d17a0e4359a6fab78fa8872b93f1da0550db9.png"
+        ,"event_variant":"False"
+      },
+    "MeT3": {
+        "name":"Merle Hitower Highchurch"
+        ,"source":"The Adventure Zone"
+        ,"img":"https://66.media.tumblr.com/892d0b1f1900048d83110e2338eb6960/e042b4414053ffed-74/s640x960/9a09b2f0f48149746e5a86c5efd9e99f5bd5c48d.png"
+        ,"event_variant":"False"
+      },
+    "MaT3": {
+        "name":"Magnus Burnsides"
+        ,"source":"The Adventure Zone"
+        ,"img":"https://66.media.tumblr.com/75c2bbedd2d66315c5d4fdb6a235e1b3/e042b4414053ffed-e9/s640x960/e6302457ad04ff2cbd3a3518a8a1f871a028600e.png"
+        ,"event_variant":"False"
+      },
+    "TaT3": {
+        "name":"Taako Taaco"
+        ,"source":"The Adventure Zone"
+        ,"img":"https://66.media.tumblr.com/ca4b314e9fecbb1c883176d0a3789861/e042b4414053ffed-f8/s640x960/b9c803940b6ed0ed860c96999dd9e71e03eea45a.png"
+        ,"event_variant":"False"
+      },
+    "QuT3": {
+        "name":"Quintin Cai"
+        ,"source":"Thot Patrol"
+        ,"img":"https://66.media.tumblr.com/959a079b7387ec238341101bfcab061d/e042b4414053ffed-c4/s640x960/51b0e65ff7c46100a6ecca03f1a85536d9c313fe.png"
+        ,"event_variant":"False"
+      }
+}}
