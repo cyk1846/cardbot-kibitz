@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+
 threaded==4.0.8
 ~ip==20.0.2
 disputils==0.1.3
