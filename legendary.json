@@ -1,16 +1,34 @@
-{"legendary":
-    {
-    "RiR6": {
-        "name":"Ricardo Milos"
-        ,"source":"Ricardo Milos"
-        ,"img":"https://66.media.tumblr.com/817ca05ea11ef5acfa9a4c6c3d469adb/e042b4414053ffed-e5/s640x960/16b263c21b603da601c5475569591c2d9c9853d9.gif"
-        ,"event_variant":"False"
-      },
-
-    "SaU6": {
-        "name":"Sans"
-        ,"source":"Undertale"
-        ,"img" :"https://cdn.discordapp.com/attachments/537844484948361227/715032715417878549/sans.png"
-        ,"event_variant":"False"
-      }
-    }}
+{
+"legendary": {
+"KiK6": { 
+    "name":"Kirby",
+    "source":"Kirby",
+    "img":"https://i.imgur.com/ClcZiCq.png",
+    "event_variant":"FALSE"  
+},
+"RiR6": { 
+    "name":"Ricardo Milos",
+    "source":"Ricardo Milos",
+    "img":"https://i.imgur.com/NHni9y7.gif",
+    "event_variant":"FALSE"  
+},
+"SaU6": { 
+    "name":"Sans",
+    "source":"Undertale",
+    "img":"https://i.imgur.com/WAReCHc.png",
+    "event_variant":"FALSE"  
+},
+"SoS6": { 
+    "name":"Sonic the Hedgehog",
+    "source":"Sonic The Hedgehog",
+    "img":"https://i.imgur.com/NzQQuGe.png",
+    "event_variant":"FALSE"  
+},
+"ThM6": { 
+    "name":"The Final Pam",
+    "source":"Monster Factory",
+    "img":"https://i.imgur.com/npbDDit.png",
+    "event_variant":"FALSE"  
+}
+} 
+}

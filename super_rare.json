@@ -1,30 +1,184 @@
-{"super_rare":
-    {
-    "SaH4": {
-        "name":"Sansmaeda"
-        ,"source":"Holly's Mind Palace"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074139366490152/sansmaeda_holly.png"
-        ,"event_variant":"False"
-      },
-
-    "LuL4": {
-        "name":"Lumine (Wolf)"
-        ,"source":"Lumine"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074141442801744/wolf_lumine.png"
-        ,"event_variant":"False"
-      },
-
-    "ZaO4": {
-        "name":"Zacharie"
-        ,"source":"OFF"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074139484061717/zacharie_off.png"
-        ,"event_variant":"False"
-      },
-
-    "HeS4": {
-        "name":"Hey You, You're Finally Awake"
-        ,"source":"Skyrim"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715074135176249424/hey_skyrim.png"
-        ,"event_variant":"False"
-      }
-}}
+{
+"super_rare": {
+"AuA4": { 
+    "name":"Austin Powers",
+    "source":"Austin Powers",
+    "img":"https://i.imgur.com/fkCG9F3.png",
+    "event_variant":"FALSE"  
+},
+"BaB4": { 
+    "name":"Batman",
+    "source":"Batman",
+    "img":"https://i.imgur.com/2a8AKmG.png",
+    "event_variant":"FALSE"  
+},
+"BEH4": { 
+    "name":"Benrey",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/i4qMafp.png",
+    "event_variant":"FALSE"  
+},
+"BLI4": { 
+    "name":"BLÅHAJ",
+    "source":"IKEA",
+    "img":"https://i.imgur.com/I3e2oGY.png",
+    "event_variant":"FALSE"  
+},
+"DJI4": { 
+    "name":"DJUNGELSKOG",
+    "source":"IKEA",
+    "img":"https://i.imgur.com/ebYAnga.png",
+    "event_variant":"FALSE"  
+},
+"ExY4": { 
+    "name":"Exodia the Forbidden One",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/XBdqMbu.png",
+    "event_variant":"FALSE"  
+},
+"HeS4": { 
+    "name":"Hey You, You're Finally Awake",
+    "source":"Skyrim",
+    "img":"https://i.imgur.com/oX6sIjd.png",
+    "event_variant":"FALSE"  
+},
+"JoE4": { 
+    "name":"Joan Watson",
+    "source":"Elementary",
+    "img":"https://i.imgur.com/Xakliqt.png",
+    "event_variant":"FALSE"  
+},
+"JoG4": { 
+    "name":"Jon Arbuckle",
+    "source":"Garfield",
+    "img":"https://i.imgur.com/HFrdnWP.png",
+    "event_variant":"FALSE"  
+},
+"JoJ4": { 
+    "name":"Jolyne",
+    "source":"Jojo's Bizarre Adventure",
+    "img":"https://i.imgur.com/J2wThtO.png",
+    "event_variant":"FALSE"  
+},
+"KaK4": { 
+    "name":"Kamen Rider Kabuto",
+    "source":"Kamen Rider",
+    "img":"https://i.imgur.com/guMCjmh.png",
+    "event_variant":"FALSE"  
+},
+"KiT4": { 
+    "name":"King",
+    "source":"The Owl House",
+    "img":"https://i.imgur.com/F56dhEh.png",
+    "event_variant":"FALSE"  
+},
+"KnS4": { 
+    "name":"Knuckles The Echnida",
+    "source":"Sonic The Hedgehog",
+    "img":"https://i.imgur.com/g7pn1zg.png",
+    "event_variant":"FALSE"  
+},
+"LiC4": { 
+    "name":"Lightning McQueen",
+    "source":"Cars (PIXAR)",
+    "img":"https://i.imgur.com/Jm8m8vY.png",
+    "event_variant":"FALSE"  
+},
+"LuL4": { 
+    "name":"Lumine (Wolf)",
+    "source":"Lumine",
+    "img":"https://i.imgur.com/lRmcDk7.png",
+    "event_variant":"FALSE"  
+},
+"MeM4": { 
+    "name":"Megamind",
+    "source":"Megamind",
+    "img":"https://i.imgur.com/4fId5Ep.png",
+    "event_variant":"FALSE"  
+},
+"MiS4": { 
+    "name":"Miles Morales",
+    "source":"Spider-Man: Into The Spider-Verse",
+    "img":"https://i.imgur.com/ST6qFvF.png",
+    "event_variant":"FALSE"  
+},
+"OpT4": { 
+    "name":"Optimus Prime",
+    "source":"Transformers",
+    "img":"https://i.imgur.com/lfVpO0l.png",
+    "event_variant":"FALSE"  
+},
+"PaP4": { 
+    "name":"Pac-Man",
+    "source":"Pac-Man",
+    "img":"https://i.imgur.com/QeeJB83.png",
+    "event_variant":"FALSE"  
+},
+"QuD4": { 
+    "name":"Queen",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/RaUSLj8.png",
+    "event_variant":"FALSE"  
+},
+"RoK4": { 
+    "name":"Roxas",
+    "source":"Kingdom Hearts",
+    "img":"https://i.imgur.com/m83xh3s.png",
+    "event_variant":"FALSE"  
+},
+"RyS4": { 
+    "name":"Ryu",
+    "source":"Street Fighter",
+    "img":"https://i.imgur.com/yC8BLD9.png",
+    "event_variant":"FALSE"  
+},
+"SaH4": { 
+    "name":"Sansmaeda",
+    "source":"Holly's Mind Palace",
+    "img":"https://i.imgur.com/89of3DF.png",
+    "event_variant":"FALSE"  
+},
+"SkH4": { 
+    "name":"Skeletor",
+    "source":"He-man",
+    "img":"https://i.imgur.com/ZlKM21H.png",
+    "event_variant":"FALSE"  
+},
+"StS4": { 
+    "name":"Starfy",
+    "source":"Starfy",
+    "img":"https://i.imgur.com/3PbaZ7d.png",
+    "event_variant":"FALSE"  
+},
+"SuH4": { 
+    "name":"Sunkist (the dog)",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/HsoCWaP.png",
+    "event_variant":"FALSE"  
+},
+"WiP4": { 
+    "name":"Winnie the Pooh",
+    "source":"Public Domain",
+    "img":"https://i.imgur.com/MBJoe15.png",
+    "event_variant":"FALSE"  
+},
+"YVN4": { 
+    "name":"Y.V",
+    "source":"Nuclear Throne",
+    "img":"https://i.imgur.com/s8rwT5c.png",
+    "event_variant":"FALSE"  
+},
+"ZaO4": { 
+    "name":"Zacharie",
+    "source":"OFF",
+    "img":"https://i.imgur.com/eittfCP.png",
+    "event_variant":"FALSE"  
+},
+"ZeZ4": { 
+    "name":"Zelda",
+    "source":"Zelda",
+    "img":"https://i.imgur.com/Hv1ZWQG.png",
+    "event_variant":"FALSE"  
+}
+} 
+}

@@ -1,72 +1,670 @@
-{"uncommon":
 {
-"SuD2": {
-    "name":"Susie"
-    ,"source":"Deltarune"
-    ,"img":"https://66.media.tumblr.com/165e3d8893887498a252360af63a26a6/b72668e57e5ab363-3c/s640x960/b443f630538b617142213633f67f36257f00dc51.png"
-    ,"event_variant":"N/A"
-  },
-
-"WaD2": {
-    "name":"Warly"
-    ,"source":"Don't Starve"
-    ,"img":"https://66.media.tumblr.com/5beaadb5512a17c21df0604a61f20a63/b72668e57e5ab363-72/s640x960/1c6dee30286c3080c855197c5b6e0368b18b1519.png"
-    ,"event_variant":"N/A"
-  },
-
-"NiF2": {
-    "name":"Nick Valentine"
-    ,"source":"Fallout 4"
-    ,"img":"https://66.media.tumblr.com/fe8d374f7114e0d4bb98ff5a6e985fc9/b72668e57e5ab363-29/s640x960/184cef93f54f1e18cfc2b6ced87cf29c720ee72b.png"
-    ,"event_variant":"N/A"
-  },
-
-"MiH2": {
-    "name":"Mister Cat"
-    ,"source":"Haste's House"
-    ,"img":"https://66.media.tumblr.com/c119409edec3858c95267f7b1aa28e0c/b72668e57e5ab363-6e/s640x960/6dcd723f51544996bed74c4aee553a4b17b5206a.png"
-    ,"event_variant":"N/A"
-  },
-
-"KaK2": {
-    "name":"Kanamori Sayaka"
-    ,"source":"Keep Your Hands Off Eizouken!"
-    ,"img":"https://66.media.tumblr.com/df86e13af600e430f85225b9d382a046/b72668e57e5ab363-86/s640x960/b9c5f4e837437e5e13b1372690bbb549b1a30647.png"
-    ,"event_variant":"N/A"
-  },
-
-"BeK2": {
-    "name":"Benoit Blanc"
-    ,"source":"Knives Out"
-    ,"img":"https://66.media.tumblr.com/7d6868e9c3513e231a9214a4f1a2ed26/b72668e57e5ab363-17/s640x960/c061eadcf7c02ac0f7d4415cf6b4872868d956e6.png"
-    ,"event_variant":"N/A"
-  },
-
-"LuL2": {
-    "name":"Lumine (Puppy)"
-    ,"source":"Lumine"
-    ,"img":"https://66.media.tumblr.com/046ce61341b99126a30c2d2686b73725/b72668e57e5ab363-b5/s640x960/d7e9fc3c579c355c9036963d07550e2e62e563df.png"
-    ,"event_variant":"N/A"
-  },
-
-"PeS2": {
-    "name":"Peacock"
-    ,"source":"Skullgirls"
-    ,"img":"https://66.media.tumblr.com/ddcaf51efa64a91d0ea3a6cecf407dd1/b72668e57e5ab363-4d/s640x960/075352094dcc41b20b1c665f850f65fc1d2333f3.png"
-    ,"event_variant":"N/A"
-  },
-
-"GeS2": {
-    "name":"Geno"
-    ,"source":"Super Mario RPG"
-    ,"img":"https://66.media.tumblr.com/cfc013e15e1348dd8505c8b4ac4b231b/b72668e57e5ab363-9d/s640x960/2f59bd76043db11803d019179000362ab84fcce7.png"
-    ,"event_variant":"N/A"
-  },
-
-"PaU2": {
-    "name":"Papyrus"
-    ,"source":"Undertale"
-    ,"img":"https://66.media.tumblr.com/153911144ade993b6afcb272a3769318/b72668e57e5ab363-8b/s640x960/e062f85282e49cb00a47350be2253313a21e506d.png"
-    ,"event_variant":"N/A"
-  }
-}}
+"uncommon": {
+"$1C2": { 
+    "name":"$1.50 Hot Dog",
+    "source":"Costco",
+    "img":"https://i.imgur.com/AFLONnf.png",
+    "event_variant":"FALSE"  
+},
+"AcP2": { 
+    "name":"Ace Dick",
+    "source":"Problem Sleuth",
+    "img":"https://i.imgur.com/AUDjDSQ.png",
+    "event_variant":"FALSE"  
+},
+"AdT2": { 
+    "name":"Adia Turray",
+    "source":"Temtem",
+    "img":"https://i.imgur.com/jOzvSBG.png",
+    "event_variant":"FALSE"  
+},
+"AmP2": { 
+    "name":"Amoongus",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/VfxFaYt.png",
+    "event_variant":"FALSE"  
+},
+"BcH2": { 
+    "name":"Bec",
+    "source":"Homestuck",
+    "img":"https://i.imgur.com/WHtw0nr.png",
+    "event_variant":"FALSE"  
+},
+"BeG2": { 
+    "name":"Bedman",
+    "source":"Guilty Gear",
+    "img":"https://i.imgur.com/GrqE2cl.png",
+    "event_variant":"FALSE"  
+},
+"BeK2": { 
+    "name":"Benoit Blanc",
+    "source":"Knives Out",
+    "img":"https://i.imgur.com/UHCaY5e.png",
+    "event_variant":"FALSE"  
+},
+"BeT2": { 
+    "name":"Beaker",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/BEHPDP3.png",
+    "event_variant":"FALSE"  
+},
+"BiS2": { 
+    "name":"Billy (Puppet)",
+    "source":"Saw",
+    "img":"https://i.imgur.com/iOFU8jN.png",
+    "event_variant":"FALSE"  
+},
+"BlA2": { 
+    "name":"Blanca",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/9sjficE.png",
+    "event_variant":"FALSE"  
+},
+"BLP2": { 
+    "name":"BLURGHGHHBLBB marill sticker",
+    "source":"Pokemon GO",
+    "img":"https://i.imgur.com/QfO7Wyg.png",
+    "event_variant":"FALSE"  
+},
+"BrG2": { 
+    "name":"Brooklyn",
+    "source":"Gargoyles",
+    "img":"https://i.imgur.com/4VlVpgS.png",
+    "event_variant":"FALSE"  
+},
+"BrT2": { 
+    "name":"Brainstorm",
+    "source":"Transformers",
+    "img":"https://i.imgur.com/AtUhfQd.png",
+    "event_variant":"FALSE"  
+},
+"BuH2": { 
+    "name":"Dr. Bubby",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/omSjPY5.png",
+    "event_variant":"FALSE"  
+},
+"CaD2": { 
+    "name":"Carlbot",
+    "source":"Discord Bots",
+    "img":"https://i.imgur.com/ANHZqtV.png",
+    "event_variant":"FALSE"  
+},
+"CaT2": { 
+    "name":"Carlos",
+    "source":"Temtem",
+    "img":"https://i.imgur.com/IRFVlWC.png",
+    "event_variant":"FALSE"  
+},
+"ChC2": { 
+    "name":"Chibi-Robo",
+    "source":"Chibi-Robo",
+    "img":"https://i.imgur.com/KEtAmuU.png",
+    "event_variant":"FALSE"  
+},
+"ChM2": { 
+    "name":"Char Aznable",
+    "source":"Mobile Suit Gundam",
+    "img":"https://i.imgur.com/jFkzJdO.png",
+    "event_variant":"FALSE"  
+},
+"ClR2": { 
+    "name":"Clairen",
+    "source":"Rivals of Aether",
+    "img":"https://i.imgur.com/gvgb4iy.png",
+    "event_variant":"FALSE"  
+},
+"CoA2": { 
+    "name":"Cornimer",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/renFEi5.png",
+    "event_variant":"FALSE"  
+},
+"CoC2": { 
+    "name":"Cocoa Cookie",
+    "source":"Cookie Run",
+    "img":"https://i.imgur.com/8sXMPSI.png",
+    "event_variant":"FALSE"  
+},
+"CrT2": { 
+    "name":"Craig Weekend",
+    "source":"The Week",
+    "img":"https://i.imgur.com/R44ieOr.png",
+    "event_variant":"FALSE"  
+},
+"DaG2": { 
+    "name":"David Xanatos",
+    "source":"Gargoyles",
+    "img":"https://i.imgur.com/GnLwTqh.png",
+    "event_variant":"FALSE"  
+},
+"DeG2": { 
+    "name":"Demona",
+    "source":"Gargoyles",
+    "img":"https://i.imgur.com/G4v2FFj.png",
+    "event_variant":"FALSE"  
+},
+"DoP2": { 
+    "name":"Doopliss",
+    "source":"Paper Mario: The Thousand Year Door",
+    "img":"https://i.imgur.com/KBMcELQ.png",
+    "event_variant":"FALSE"  
+},
+"DoS2": { 
+    "name":"Doctor Octopus",
+    "source":"Sam Raimi's Spider Man",
+    "img":"https://i.imgur.com/CFbO0iv.png",
+    "event_variant":"FALSE"  
+},
+"DrP2": { 
+    "name":"Dracula",
+    "source":"Public Domain",
+    "img":"https://i.imgur.com/0A1OdpS.png",
+    "event_variant":"FALSE"  
+},
+"DrT2": { 
+    "name":"Dr. Bunsen Honeydew",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/zRgQjjF.png",
+    "event_variant":"FALSE"  
+},
+"EdR2": { 
+    "name":"Edge",
+    "source":"Remember Me",
+    "img":"https://i.imgur.com/nNPW0zL.png",
+    "event_variant":"FALSE"  
+},
+"ElG2": { 
+    "name":"Elisa Maza",
+    "source":"Gargoyles",
+    "img":"https://i.imgur.com/rhhPgYd.png",
+    "event_variant":"FALSE"  
+},
+"EnM2": { 
+    "name":"Enderman",
+    "source":"Minecraft",
+    "img":"https://i.imgur.com/07MzlLp.png",
+    "event_variant":"FALSE"  
+},
+"FiN2": { 
+    "name":"Fish",
+    "source":"Nuclear Throne",
+    "img":"https://i.imgur.com/FrPSE9N.png",
+    "event_variant":"FALSE"  
+},
+"FiP2": { 
+    "name":"Finneon",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/tskIqsl.png",
+    "event_variant":"FALSE"  
+},
+"FlM2": { 
+    "name":"Flat Fuck Friday",
+    "source":"Meme",
+    "img":"https://i.imgur.com/pb7aS3T.png",
+    "event_variant":"FALSE"  
+},
+"FoM2": { 
+    "name":"Fozzie Bear",
+    "source":"Muppets",
+    "img":"https://i.imgur.com/jAz0vGW.png",
+    "event_variant":"FALSE"  
+},
+"FuB2": { 
+    "name":"Funny Bunny",
+    "source":"Board Game",
+    "img":"https://i.imgur.com/KYhrhem.png",
+    "event_variant":"FALSE"  
+},
+"GeS2": { 
+    "name":"Geno",
+    "source":"Super Mario RPG: Legend of the Seven Stars",
+    "img":"https://i.imgur.com/FVgm9BT.png",
+    "event_variant":"FALSE"  
+},
+"GiS2": { 
+    "name":"Gingerbread Man",
+    "source":"Shrek",
+    "img":"https://i.imgur.com/GgdEOW6.png",
+    "event_variant":"FALSE"  
+},
+"GoG2": { 
+    "name":"Goliath",
+    "source":"Gargoyles",
+    "img":"https://i.imgur.com/9cJwqq3.png",
+    "event_variant":"FALSE"  
+},
+"GoH2": { 
+    "name":"Gordon \"Feetman\" Freeman",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/gFrQdsP.png",
+    "event_variant":"FALSE"  
+},
+"GoT2": { 
+    "name":"Gonzo",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/0S7EdB6.png",
+    "event_variant":"FALSE"  
+},
+"GrS2": { 
+    "name":"Green Goblin",
+    "source":"Sam Raimi's Spider Man",
+    "img":"https://i.imgur.com/tHaO0kk.png",
+    "event_variant":"FALSE"  
+},
+"GuB2": { 
+    "name":"Gus Fring",
+    "source":"Breaking Bad",
+    "img":"https://i.imgur.com/Ae69Pt5.png",
+    "event_variant":"FALSE"  
+},
+"HaH2": { 
+    "name":"Halo",
+    "source":"Halo",
+    "img":"https://i.imgur.com/Pybcnhx.png",
+    "event_variant":"FALSE"  
+},
+"HaM2": { 
+    "name":"Hawkeye",
+    "source":"Matt Fraction's Hawkeye",
+    "img":"https://i.imgur.com/d9NEFQd.png",
+    "event_variant":"FALSE"  
+},
+"HPH2": { 
+    "name":"Dr. Harold Pontiff Coomer",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/FWoCCQc.png",
+    "event_variant":"FALSE"  
+},
+"JaA2": { 
+    "name":"Jack",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/fLef84Y.png",
+    "event_variant":"FALSE"  
+},
+"JeB2": { 
+    "name":"Jesse Pinkman",
+    "source":"Breaking Bad",
+    "img":"https://i.imgur.com/jJeRuHw.png",
+    "event_variant":"FALSE"  
+},
+"JeW2": { 
+    "name":"Jester",
+    "source":"Wizard",
+    "img":"https://i.imgur.com/oEePh4q.png",
+    "event_variant":"FALSE"  
+},
+"JjS2": { 
+    "name":"J. Jonah Jameson",
+    "source":"Sam Raimi's Spider Man",
+    "img":"https://i.imgur.com/23hYk2P.png",
+    "event_variant":"FALSE"  
+},
+"JoH2": { 
+    "name":"John Freeman",
+    "source":"Half-Life: Full Life Consequences",
+    "img":"https://i.imgur.com/VXvbU9L.png",
+    "event_variant":"FALSE"  
+},
+"KaK2": { 
+    "name":"Kanamori Sayaka",
+    "source":"Keep Your Hands Off Eizouken!",
+    "img":"https://i.imgur.com/i380lEm.png",
+    "event_variant":"FALSE"  
+},
+"KeA2": { 
+    "name":"Kenny Omega",
+    "source":"All Elite Wrestling",
+    "img":"https://i.imgur.com/Vn3RMDo.png",
+    "event_variant":"FALSE"  
+},
+"LeS2": { 
+    "name":"Lenin",
+    "source":"Soviet Union",
+    "img":"https://i.imgur.com/srlarjH.png",
+    "event_variant":"FALSE"  
+},
+"LiP2": { 
+    "name":"Liepard",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/XpHpQHn.png",
+    "event_variant":"FALSE"  
+},
+"LoI2": { 
+    "name":"Lonely apprentice",
+    "source":"Inscryption",
+    "img":"https://i.imgur.com/FeO4gS5.png",
+    "event_variant":"FALSE"  
+},
+"LuL2": { 
+    "name":"Lumine (Puppy)",
+    "source":"Lumine",
+    "img":"https://i.imgur.com/47uNUJW.png",
+    "event_variant":"FALSE"  
+},
+"MaA2": { 
+    "name":"Maxwell Jacob Friedman",
+    "source":"All Elite Wrestling",
+    "img":"https://i.imgur.com/bBUsBF0.png",
+    "event_variant":"FALSE"  
+},
+"MaP2": { 
+    "name":"Magnemite",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/Fbw2khm.png",
+    "event_variant":"FALSE"  
+},
+"MaY2": { 
+    "name":"Maxx \"C\"",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/Dlp9mUp.png",
+    "event_variant":"FALSE"  
+},
+"meI2": { 
+    "name":"meatballs",
+    "source":"IKEA",
+    "img":"https://i.imgur.com/T8U1PWZ.png",
+    "event_variant":"FALSE"  
+},
+"MiB2": { 
+    "name":"Mike Ehrmantraut",
+    "source":"Breaking Bad",
+    "img":"https://i.imgur.com/BiJrPDP.png",
+    "event_variant":"FALSE"  
+},
+"MiH2": { 
+    "name":"Mister Cat",
+    "source":"Haste's House",
+    "img":"https://i.imgur.com/xR1mDX8.png",
+    "event_variant":"FALSE"  
+},
+"MiM2": { 
+    "name":"Minnesota Fats",
+    "source":"Minnesota Fats Pool Legend",
+    "img":"https://i.imgur.com/Sc7yo5u.png",
+    "event_variant":"FALSE"  
+},
+"MoD2": { 
+    "name":"Moonlight greatsword",
+    "source":"Dark Souls",
+    "img":"https://i.imgur.com/nfeXehb.png",
+    "event_variant":"FALSE"  
+},
+"MoT2": { 
+    "name":"The moon",
+    "source":"The sky",
+    "img":"https://i.imgur.com/fbi4r3c.png",
+    "event_variant":"FALSE"  
+},
+"MrT2": { 
+    "name":"Mr. Mew",
+    "source":"The World Ends With You",
+    "img":"https://i.imgur.com/kToFg0P.png",
+    "event_variant":"FALSE"  
+},
+"NeG2": { 
+    "name":"Nermal",
+    "source":"Garfield",
+    "img":"https://i.imgur.com/e89heCI.png",
+    "event_variant":"FALSE"  
+},
+"NiF2": { 
+    "name":"Nick Valentine",
+    "source":"Fallout 4",
+    "img":"https://i.imgur.com/iNGplrG.png",
+    "event_variant":"FALSE"  
+},
+"NiR2": { 
+    "name":"Nilin",
+    "source":"Remember Me",
+    "img":"https://i.imgur.com/hHVdMhq.png",
+    "event_variant":"FALSE"  
+},
+"NiX2": { 
+    "name":"Nightcrawler",
+    "source":"X-men",
+    "img":"https://i.imgur.com/JpQ2gPj.png",
+    "event_variant":"FALSE"  
+},
+"OrA2": { 
+    "name":"Orange Cassidy",
+    "source":"All Elite Wrestling",
+    "img":"https://i.imgur.com/RZxWp06.png",
+    "event_variant":"FALSE"  
+},
+"PaU2": { 
+    "name":"Papyrus",
+    "source":"Undertale",
+    "img":"https://i.imgur.com/7iKHTUA.png",
+    "event_variant":"FALSE"  
+},
+"PeS2": { 
+    "name":"Peacock",
+    "source":"Skullgirls",
+    "img":"https://i.imgur.com/vtR95Xd.png",
+    "event_variant":"FALSE"  
+},
+"PiA2": { 
+    "name":"Pietro",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/Pk8xhJN.png",
+    "event_variant":"FALSE"  
+},
+"PiP2": { 
+    "name":"Pickle Inspector",
+    "source":"Problem Sleuth",
+    "img":"https://i.imgur.com/l8gP9XO.png",
+    "event_variant":"FALSE"  
+},
+"PrM2": { 
+    "name":"Proto Man",
+    "source":"Mega Man",
+    "img":"https://i.imgur.com/YnutyXK.png",
+    "event_variant":"FALSE"  
+},
+"PrS2": { 
+    "name":"Prowler",
+    "source":"Spider-Man: Into The Spider-Verse",
+    "img":"https://i.imgur.com/liUFEr3.png",
+    "event_variant":"FALSE"  
+},
+"QuM2": { 
+    "name":"Quattro Bajeena",
+    "source":"Mobile Suit Gundam",
+    "img":"https://i.imgur.com/FzUJjuE.png",
+    "event_variant":"FALSE"  
+},
+"ReY2": { 
+    "name":"Red Tornado",
+    "source":"Young Justice",
+    "img":"https://i.imgur.com/FVmDov9.png",
+    "event_variant":"FALSE"  
+},
+"RoR2": { 
+    "name":"Robyn Hill",
+    "source":"RWBY",
+    "img":"https://i.imgur.com/RvDzl9H.png",
+    "event_variant":"FALSE"  
+},
+"SaB2": { 
+    "name":"Saul Goodman",
+    "source":"Baking Bad",
+    "img":"https://i.imgur.com/uZr6xaX.png",
+    "event_variant":"FALSE"  
+},
+"SaH2": { 
+    "name":"Sawbuck",
+    "source":"Homestuck",
+    "img":"https://i.imgur.com/uOzJze6.png",
+    "event_variant":"FALSE"  
+},
+"SaP2": { 
+    "name":"Sawsbuck",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/4xcLFMl.png",
+    "event_variant":"FALSE"  
+},
+"SaT2": { 
+    "name":"Sam the eagle",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/y2DMNGD.png",
+    "event_variant":"FALSE"  
+},
+"ShD2": { 
+    "name":"Shazam",
+    "source":"DC",
+    "img":"https://i.imgur.com/n3wsOhB.png",
+    "event_variant":"FALSE"  
+},
+"ShS2": { 
+    "name":"Shrek",
+    "source":"Shrek",
+    "img":"https://i.imgur.com/fM2ERcx.png",
+    "event_variant":"FALSE"  
+},
+"SiM2": { 
+    "name":"Silver Surfer",
+    "source":"Marvel",
+    "img":"https://i.imgur.com/8TPPNIv.png",
+    "event_variant":"FALSE"  
+},
+"SlC2": { 
+    "name":"Sleepytime bear",
+    "source":"Celestial Seasonings",
+    "img":"https://i.imgur.com/K7WRwSH.png",
+    "event_variant":"FALSE"  
+},
+"SoG2": { 
+    "name":"Sol Badguy",
+    "source":"Guilty Gear",
+    "img":"https://i.imgur.com/cjfTTNo.png",
+    "event_variant":"FALSE"  
+},
+"SpB2": { 
+    "name":"Spot",
+    "source":"Beanie Babies",
+    "img":"https://i.imgur.com/ITI8Bxi.png",
+    "event_variant":"FALSE"  
+},
+"SpS2": { 
+    "name":"Spider-Ham",
+    "source":"Spider-Man: Into The Spider-Verse",
+    "img":"https://i.imgur.com/AkqKlpA.png",
+    "event_variant":"FALSE"  
+},
+"StD2": { 
+    "name":"Stagehand",
+    "source":"Don't Starve Together",
+    "img":"https://i.imgur.com/L1iu1ST.png",
+    "event_variant":"FALSE"  
+},
+"StI2": { 
+    "name":"Stoat",
+    "source":"Inscryption",
+    "img":"https://i.imgur.com/XlWquq1.png",
+    "event_variant":"FALSE"  
+},
+"StM2": { 
+    "name":"Steve",
+    "source":"Minecraft",
+    "img":"https://i.imgur.com/BtIK102.png",
+    "event_variant":"FALSE"  
+},
+"SuT2": { 
+    "name":"The sun",
+    "source":"The sky",
+    "img":"https://i.imgur.com/Nw1GMdH.png",
+    "event_variant":"FALSE"  
+},
+"TeD2": { 
+    "name":"Terriermon",
+    "source":"Digimon",
+    "img":"https://i.imgur.com/qrf4W1R.png",
+    "event_variant":"FALSE"  
+},
+"ThD2": { 
+    "name":"The Grinch",
+    "source":"Doctor Seuss",
+    "img":"https://i.imgur.com/uwmCXUa.png",
+    "event_variant":"FALSE"  
+},
+"ThM2": { 
+    "name":"The Freaking Weeking",
+    "source":"Meme",
+    "img":"https://i.imgur.com/YavUchT.png",
+    "event_variant":"FALSE"  
+},
+"TOH2": { 
+    "name":"Dr. Tommy Coolatta",
+    "source":"Half Life VR But The AI is Self-Aware",
+    "img":"https://i.imgur.com/rwFPj7l.png",
+    "event_variant":"FALSE"  
+},
+"TtM2": { 
+    "name":"The Thing",
+    "source":"Marvel",
+    "img":"https://i.imgur.com/zDxZ2tF.png",
+    "event_variant":"FALSE"  
+},
+"TwH2": { 
+    "name":"Twig",
+    "source":"Hilda",
+    "img":"https://i.imgur.com/xHgxzmo.png",
+    "event_variant":"FALSE"  
+},
+"VaG2": { 
+    "name":"Val",
+    "source":"Golden Light",
+    "img":"https://i.imgur.com/XQ84Gmz.png",
+    "event_variant":"FALSE"  
+},
+"WaD2": { 
+    "name":"Warly",
+    "source":"Don't Starve",
+    "img":"https://i.imgur.com/jkdV31j.png",
+    "event_variant":"FALSE"  
+},
+"WeP2": { 
+    "name":"Weavile",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/dBfjruR.png",
+    "event_variant":"FALSE"  
+},
+"WiW2": { 
+    "name":"Wizard",
+    "source":"Wizard",
+    "img":"https://i.imgur.com/FKFoVdO.png",
+    "event_variant":"FALSE"  
+},
+"WoH2": { 
+    "name":"Woodman",
+    "source":"Hilda",
+    "img":"https://i.imgur.com/ywSCjbc.png",
+    "event_variant":"FALSE"  
+},
+"WoM2": { 
+    "name":"Wood Man",
+    "source":"Mega Man",
+    "img":"https://i.imgur.com/qyyBGaF.png",
+    "event_variant":"FALSE"  
+},
+"WXD2": { 
+    "name":"WX-78",
+    "source":"Don't Starve Together",
+    "img":"https://i.imgur.com/iSYvrS4.png",
+    "event_variant":"FALSE"  
+},
+"ZaM2": { 
+    "name":"Zaku",
+    "source":"Mobile Suit Gundam",
+    "img":"https://i.imgur.com/ygfSwPv.png",
+    "event_variant":"FALSE"  
+},
+"ZoS2": { 
+    "name":"Zorak",
+    "source":"Space Ghost",
+    "img":"https://i.imgur.com/tOyhBTy.png",
+    "event_variant":"FALSE"  
+}
+} 
+}

@@ -1,121 +1,611 @@
-{"common":
 {
-"AlL1": {
-    "name":"Alistar"
-    ,"source":"League of Legends"
-    ,"img":"https://66.media.tumblr.com/ed18bb0082553c2ad3f986f9d70514d3/97892ac387a38e56-ba/s640x960/9633201b02aac737d94e3ed03318be47051a8a9c.png"
-    ,"event_variant":"False"
-  },
+"common": {
+"60M1": { 
+    "name":"60,000 Bees",
+    "source":"Meme",
+    "img":"https://i.imgur.com/SG91hvH.png",
+    "event_variant":"FALSE"  
+},
+"AcW1": { 
+    "name":"A cardboard box that appears to be shocked and unhappy",
+    "source":"Wikipedia",
+    "img":"https://i.imgur.com/wwbev0O.png",
+    "event_variant":"FALSE"  
+},
+"AlL1": { 
+    "name":"Alistar",
+    "source":"League of Legends",
+    "img":"https://i.imgur.com/j37u7m3.png",
+    "event_variant":"FALSE"  
+},
+"AlP1": { 
+    "name":"Alolan Geodude",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/3hH9WEn.png",
+    "event_variant":"FALSE"  
+},
+"AnT1": { 
+    "name":"Angus McDonald",
+    "source":"The Adventure Zone",
+    "img":"https://i.imgur.com/TxWXaJp.png",
+    "event_variant":"FALSE"  
+},
+"ArS1": { 
+    "name":"Arms",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/DOoU3g9.png",
+    "event_variant":"FALSE"  
+},
+"BiP1": { 
+    "name":"Bidoof",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/sYmS0xk.png",
+    "event_variant":"FALSE"  
+},
+"BlT1": { 
+    "name":"Blue whale",
+    "source":"The ocean",
+    "img":"https://i.imgur.com/6TX88gP.png",
+    "event_variant":"FALSE"  
+},
+"BoS1": { 
+    "name":"Bouldergeist",
+    "source":"Super Mario Galaxy",
+    "img":"https://i.imgur.com/yAjvg1X.png",
+    "event_variant":"FALSE"  
+},
+"BrT1": { 
+    "name":"Bruce",
+    "source":"The Raft",
+    "img":"https://i.imgur.com/nyvQ7EI.png",
+    "event_variant":"FALSE"  
+},
+"CaM1": { 
+    "name":"Cat Bird",
+    "source":"Magic: The Gathering",
+    "img":"https://i.imgur.com/bnmJVWA.png",
+    "event_variant":"FALSE"  
+},
+"ChA1": { 
+    "name":"Charge rifle",
+    "source":"Apex Legends",
+    "img":"https://i.imgur.com/O9fHx2T.png",
+    "event_variant":"FALSE"  
+},
+"ClJ1": { 
+    "name":"Clowns",
+    "source":"Jerma985",
+    "img":"https://i.imgur.com/Be6Xnib.png",
+    "event_variant":"FALSE"  
+},
+"CoP1": { 
+    "name":"Copper Swine",
+    "source":"Pokemon GO",
+    "img":"https://i.imgur.com/SetAyMm.png",
+    "event_variant":"FALSE"  
+},
+"CrS1": { 
+    "name":"Crime",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/3pc6Qf6.png",
+    "event_variant":"FALSE"  
+},
+"DiM1": { 
+    "name":"Dickbutt",
+    "source":"Meme",
+    "img":"https://i.imgur.com/deA5VhF.png",
+    "event_variant":"FALSE"  
+},
+"DrP1": { 
+    "name":"Dr. Heinz Doofenshmirtz",
+    "source":"Phineas and Ferb",
+    "img":"https://i.imgur.com/dVvQxb2.png",
+    "event_variant":"FALSE"  
+},
+"DrS1": { 
+    "name":"Drinking Bird",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/ms9GyUv.png",
+    "event_variant":"FALSE"  
+},
+"DrT1": { 
+    "name":"Dr. Teeth",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/TUdcufc.png",
+    "event_variant":"FALSE"  
+},
+"ElM1": { 
+    "name":"Elmo in front of flames",
+    "source":"Meme",
+    "img":"https://i.imgur.com/ZeIHJx2.png",
+    "event_variant":"FALSE"  
+},
+"ERG1": { 
+    "name":"ERROR",
+    "source":"Garry’s Mod",
+    "img":"https://i.imgur.com/zVrgVP3.png",
+    "event_variant":"FALSE"  
+},
+"FeT1": { 
+    "name":"Feliz Jueves",
+    "source":"The Week",
+    "img":"https://i.imgur.com/NydS2Jt.png",
+    "event_variant":"FALSE"  
+},
+"FrU1": { 
+    "name":"Frisk",
+    "source":"Undertale",
+    "img":"https://i.imgur.com/4izrAJS.png",
+    "event_variant":"FALSE"  
+},
+"GeG1": { 
+    "name":"George Wood",
+    "source":"Gaming in the Clinton Years",
+    "img":"https://i.imgur.com/Z9jYFQ2.png",
+    "event_variant":"FALSE"  
+},
+"GiJ1": { 
+    "name":"Giant Enemy Spider",
+    "source":"Jerma985",
+    "img":"https://i.imgur.com/WqiL4s6.png",
+    "event_variant":"FALSE"  
+},
+"GoM1": { 
+    "name":"Goomba",
+    "source":"Mario Bros.",
+    "img":"https://i.imgur.com/bIKp7Yy.png",
+    "event_variant":"FALSE"  
+},
+"Grc1": { 
+    "name":"Great Big Boots",
+    "source":"catcrumb",
+    "img":"https://i.imgur.com/8oAxIZt.png",
+    "event_variant":"FALSE"  
+},
+"GrP1": { 
+    "name":"Gritty",
+    "source":"Philadelphia Flyers",
+    "img":"https://i.imgur.com/y1abYmm.png",
+    "event_variant":"FALSE"  
+},
+"GrT1": { 
+    "name":"Group of people",
+    "source":"Trolley Problem",
+    "img":"https://i.imgur.com/8ileJMX.png",
+    "event_variant":"FALSE"  
+},
+"GuS1": { 
+    "name":"Guillotine",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/CNKbLYv.png",
+    "event_variant":"FALSE"  
+},
+"HaN1": { 
+    "name":"Happy Negg",
+    "source":"Neopets",
+    "img":"https://i.imgur.com/iP4zRAg.png",
+    "event_variant":"FALSE"  
+},
+"Huh1": { 
+    "name":"Hurts a little bit",
+    "source":"hospital pain scale",
+    "img":"https://i.imgur.com/Hte4hI1.png",
+    "event_variant":"FALSE"  
+},
+"HuM1": { 
+    "name":"Hungry Jack",
+    "source":"Meme",
+    "img":"https://i.imgur.com/ew2eiYR.png",
+    "event_variant":"FALSE"  
+},
+"ImR1": { 
+    "name":"I miss my wife tails",
+    "source":"Real Time Dubs",
+    "img":"https://i.imgur.com/cbasP7I.png",
+    "event_variant":"FALSE"  
+},
+"InM1": { 
+    "name":"Inverted smiley potato",
+    "source":"Mafia & Cheetos",
+    "img":"https://i.imgur.com/Yh6YT7i.png",
+    "event_variant":"FALSE"  
+},
+"iWD1": { 
+    "name":"i want Komaeda to run",
+    "source":"Dangan Ronpa Suggestions",
+    "img":"https://i.imgur.com/MwFCsxb.png",
+    "event_variant":"FALSE"  
+},
+"JaM1": { 
+    "name":"Ja’am",
+    "source":"Monster Factory",
+    "img":"https://i.imgur.com/kgJaJg4.png",
+    "event_variant":"FALSE"  
+},
+"JaP1": { 
+    "name":"James",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/azl8d35.png",
+    "event_variant":"FALSE"  
+},
+"JeP1": { 
+    "name":"Jessie",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/XR8koYr.png",
+    "event_variant":"FALSE"  
+},
+"JeT1": { 
+    "name":"Jellyfish",
+    "source":"The ocean",
+    "img":"https://i.imgur.com/b2lr0g6.png",
+    "event_variant":"FALSE"  
+},
+"JuR1": { 
+    "name":"Just think once before you speak please",
+    "source":"Runescape",
+    "img":"https://i.imgur.com/M5HF7XP.png",
+    "event_variant":"FALSE"  
+},
+"JuY1": { 
+    "name":"Junk Synchron",
+    "source":"Yugioh",
+    "img":"https://i.imgur.com/1mZF0Ih.png",
+    "event_variant":"FALSE"  
+},
+"KrD1": { 
+    "name":"Kris",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/ypwX7ud.png",
+    "event_variant":"FALSE"  
+},
+"KuY1": { 
+    "name":"Kuriboh",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/1Zsk6gz.png",
+    "event_variant":"FALSE"  
+},
+"LaD1": { 
+    "name":"Lancer",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/sseMM64.png",
+    "event_variant":"FALSE"  
+},
+"LeS1": { 
+    "name":"Legs",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/dOhQ9F8.png",
+    "event_variant":"FALSE"  
+},
+"LoS1": { 
+    "name":"Lord Farquaad",
+    "source":"Shrek",
+    "img":"https://i.imgur.com/m7Cbbe7.png",
+    "event_variant":"FALSE"  
+},
+"LuL1": { 
+    "name":"Lumine (Human)",
+    "source":"Lumine",
+    "img":"https://i.imgur.com/g2KDrMZ.png",
+    "event_variant":"FALSE"  
+},
+"MaM1": { 
+    "name":"Male to male extension cord",
+    "source":"Meme",
+    "img":"https://i.imgur.com/u6bRDav.png",
+    "event_variant":"FALSE"  
+},
+"MeJ1": { 
+    "name":"Meeting of the Byahs",
+    "source":"Jerma985",
+    "img":"https://i.imgur.com/lRiYnnA.png",
+    "event_variant":"FALSE"  
+},
+"MeM1": { 
+    "name":"Metroid",
+    "source":"Metroid",
+    "img":"https://i.imgur.com/sT3O86s.png",
+    "event_variant":"FALSE"  
+},
+"Mih1": { 
+    "name":"Mild Pain",
+    "source":"hospital pain scale",
+    "img":"https://i.imgur.com/1mQAoPg.png",
+    "event_variant":"FALSE"  
+},
+"MiS1": { 
+    "name":"Milk",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/HyaXgGt.png",
+    "event_variant":"FALSE"  
+},
+"MiT1": { 
+    "name":"Minion",
+    "source":"The Minions",
+    "img":"https://i.imgur.com/SKjKbDd.png",
+    "event_variant":"FALSE"  
+},
+"MrT1": { 
+    "name":"Mr. Potato Head",
+    "source":"Toy Story",
+    "img":"https://i.imgur.com/KzVFm83.png",
+    "event_variant":"FALSE"  
+},
+"NaL1": { 
+    "name":"Nami",
+    "source":"League of Legends",
+    "img":"https://i.imgur.com/Sjm8QXa.png",
+    "event_variant":"FALSE"  
+},
+"NOB1": { 
+    "name":"NO FEAR",
+    "source":"Beanson",
+    "img":"https://i.imgur.com/yywKwDH.png",
+    "event_variant":"FALSE"  
+},
+"ONB1": { 
+    "name":"ONE FEAR",
+    "source":"Beanson",
+    "img":"https://i.imgur.com/VvugZH5.png",
+    "event_variant":"FALSE"  
+},
+"OnT1": { 
+    "name":"One guy",
+    "source":"Trolley Problem",
+    "img":"https://i.imgur.com/6rkhUr3.png",
+    "event_variant":"FALSE"  
+},
+"PeA1": { 
+    "name":"Penguin",
+    "source":"Animal",
+    "img":"https://i.imgur.com/dPSgQar.png",
+    "event_variant":"FALSE"  
+},
+"PeF1": { 
+    "name":"Periwinkle",
+    "source":"Funny Bunny",
+    "img":"https://i.imgur.com/nI07PJt.png",
+    "event_variant":"FALSE"  
+},
+"PeG1": { 
+    "name":"Pestilence",
+    "source":"Good Omens",
+    "img":"https://i.imgur.com/QUf1mvJ.png",
+    "event_variant":"FALSE"  
+},
+"PlM1": { 
+    "name":"Plinko horse",
+    "source":"Meme",
+    "img":"https://i.imgur.com/MRifu8q.png",
+    "event_variant":"FALSE"  
+},
+"RaA1": { 
+    "name":"Raymond",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/g8zQ9vc.png",
+    "event_variant":"FALSE"  
+},
+"RaD1": { 
+    "name":"Ralsei",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/lhlnl9Q.png",
+    "event_variant":"FALSE"  
+},
+"RaH1": { 
+    "name":"Rat",
+    "source":"Halo 3",
+    "img":"https://i.imgur.com/MiyBzvR.png",
+    "event_variant":"FALSE"  
+},
+"ReA1": { 
+    "name":"Red",
+    "source":"Among Us",
+    "img":"https://i.imgur.com/y61gyLY.png",
+    "event_variant":"FALSE"  
+},
+"Rec1": { 
+    "name":"Relacksed",
+    "source":"catcrumb",
+    "img":"https://i.imgur.com/MKyLtQa.png",
+    "event_variant":"FALSE"  
+},
+"ReP1": { 
+    "name":"Revenant",
+    "source":"Phasmophobia",
+    "img":"https://i.imgur.com/vCeAbVJ.png",
+    "event_variant":"FALSE"  
+},
+"ReY1": { 
+    "name":"Rescue Rabbit",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/ToHWr0S.png",
+    "event_variant":"FALSE"  
+},
+"RuM1": { 
+    "name":"Russian Homestuck Cosplayers",
+    "source":"Meme",
+    "img":"https://i.imgur.com/EAIZLiz.png",
+    "event_variant":"FALSE"  
+},
+"ScM1": { 
+    "name":"Scallop Spiderman",
+    "source":"Meme",
+    "img":"https://i.imgur.com/k7QaKnq.png",
+    "event_variant":"FALSE"  
+},
+"ShM1": { 
+    "name":"She Ghastly On My Nethers",
+    "source":"Minecraft",
+    "img":"https://i.imgur.com/O92bjEt.png",
+    "event_variant":"FALSE"  
+},
+"ShS1": { 
+    "name":"Shaggy",
+    "source":"Scooby Doo",
+    "img":"https://i.imgur.com/KKXTG16.png",
+    "event_variant":"FALSE"  
+},
+"SiA1": { 
+    "name":"Silverback Gorilla",
+    "source":"Animal",
+    "img":"https://i.imgur.com/Z3fo0Ql.png",
+    "event_variant":"FALSE"  
+},
+"SkS1": { 
+    "name":"Skeleton",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/HqvTJbU.png",
+    "event_variant":"FALSE"  
+},
+"SkY1": { 
+    "name":"Skull Servant",
+    "source":"Yugioh",
+    "img":"https://i.imgur.com/k3btSuO.png",
+    "event_variant":"FALSE"  
+},
+"SlS1": { 
+    "name":"Slime",
+    "source":"Slime Rancher",
+    "img":"https://i.imgur.com/dSfKVJc.png",
+    "event_variant":"FALSE"  
+},
+"SmJ1": { 
+    "name":"Small Enemy Spider",
+    "source":"Jerma985",
+    "img":"https://i.imgur.com/qdiLrIs.png",
+    "event_variant":"FALSE"  
+},
+"SnS1": { 
+    "name":"Snowman Donur",
+    "source":"Sharizone",
+    "img":"https://i.imgur.com/W2ZL3Fi.png",
+    "event_variant":"FALSE"  
+},
+"SpD1": { 
+    "name":"Spamton",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/Y3ROlWQ.png",
+    "event_variant":"FALSE"  
+},
+"SqA1": { 
+    "name":"Squeakoid",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/NfE6Mqv.png",
+    "event_variant":"FALSE"  
+},
+"SuD1": { 
+    "name":"Susie",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/VfN4mND.png",
+    "event_variant":"FALSE"  
+},
+"ThD1": { 
+    "name":"The vex",
+    "source":"Destiny 2",
+    "img":"https://i.imgur.com/BPuYiK9.png",
+    "event_variant":"FALSE"  
+},
+"ThH1": { 
+    "name":"The Gnome",
+    "source":"Half Life: Alyx But The Gnome is Alive",
+    "img":"https://i.imgur.com/uKmOpqz.png",
+    "event_variant":"FALSE"  
+},
+"thM1": { 
+    "name":"thog dont caare",
+    "source":"Meme",
+    "img":"https://i.imgur.com/VZcWdAN.png",
+    "event_variant":"FALSE"  
+},
+"TiY1": { 
+    "name":"Time Wizard",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/siu6YEd.png",
+    "event_variant":"FALSE"  
+},
+"ToT1": { 
+    "name":"Trolley Operator",
+    "source":"Trolley Problem",
+    "img":"https://i.imgur.com/6wMfewO.png",
+    "event_variant":"FALSE"  
+},
+"TrP1": { 
+    "name":"Travis Konecny",
+    "source":"Philadelphia Flyers",
+    "img":"https://i.imgur.com/WHXkdQ7.png",
+    "event_variant":"FALSE"  
+},
+"TrS1": { 
+    "name":"Trash",
+    "source":"Stockphoto",
+    "img":"https://i.imgur.com/y5bTVnb.png",
+    "event_variant":"FALSE"  
+},
+"TiK1": { 
+    "name":"Tiger Shrimp Poster",
+    "source":"Kawaii Pet MEGU",
+    "img":"https://i.imgur.com/nfcgNO3.png",
+    "event_variant":"FALSE"  
+},
+"TrT1": { 
+    "name":"Trolley",
+    "source":"Trolley Problem",
+    "img":"https://i.imgur.com/xc38p3H.png",
+    "event_variant":"FALSE"  
+},
+"TuT1": { 
+    "name":"Tumblr sexyman Wheatley Portal",
+    "source":"Tumblr",
+    "img":"https://i.imgur.com/sjQaJ6r.png",
+    "event_variant":"FALSE"  
+},
+"Une1": { 
+    "name":"Unisex Supervillain Emoji",
+    "source":"emojis",
+    "img":"https://i.imgur.com/7cpiLs1.png",
+    "event_variant":"FALSE"  
+},
+"VaP1": { 
+    "name":"Van",
+    "source":"Phasmophobia",
+    "img":"https://i.imgur.com/aRrR0GY.png",
+    "event_variant":"FALSE"  
+},
+"VeD1": { 
+    "name":"Vex milk",
+    "source":"Destiny 2",
+    "img":"https://i.imgur.com/LpwXhnP.png",
+    "event_variant":"FALSE"  
+},
+"viM1": { 
+    "name":"violence Milk",
+    "source":"Meme",
+    "img":"https://i.imgur.com/lrVkwfr.png",
+    "event_variant":"FALSE"  
+},
+"VuP1": { 
+    "name":"Vullaby",
+    "source":"Pokemon GO",
+    "img":"https://i.imgur.com/rymFuTA.png",
+    "event_variant":"FALSE"  
+},
+"WaA1": { 
+    "name":"Water Egg",
+    "source":"Animal Crossing",
+    "img":"https://i.imgur.com/hrGPrR3.png",
+    "event_variant":"FALSE"  
+},
+"WhA1": { 
+    "name":"White",
+    "source":"Among Us",
+    "img":"https://i.imgur.com/rSwqmbe.png",
+    "event_variant":"FALSE"  
+},
+"WhF1": { 
+    "name":"What in the goddamn",
+    "source":"Fallout: New Vegas",
+    "img":"https://i.imgur.com/VHGJGPl.png",
+    "event_variant":"FALSE"  
+}
 
-"AnT1": {
-    "name":"Angus McDonald"
-    ,"source":"The Adventure Zone"
-    ,"img":"https://66.media.tumblr.com/413752a805a9c9708082e0a4789d2210/97892ac387a38e56-be/s640x960/61568972cd6cd9a8d69cf8104bea574b95a7d3a5.png"
-    ,"event_variant":"False"
-  },
-
-"DiM1": {
-    "name":"Dickbutt"
-    ,"source":"Meme"
-    ,"img":"https://66.media.tumblr.com/7f09315e40312eaa9356bc0195b47f7c/97892ac387a38e56-84/s640x960/10d93acbf2e50c9b4b6a195cac6e621d753af4b6.png"
-    ,"event_variant":"False"
-  },
-
-"DrP1": {
-    "name":"Dr. Heinz Doofenshmirtz"
-    ,"source":"Phineas and Ferb"
-    ,"img":"https://66.media.tumblr.com/4b77866e9224649e97ef50f7b71604d2/97892ac387a38e56-93/s640x960/2e53d640db2beb923e0d5c4bc333198b5635a647.png"
-    ,"event_variant":"False"
-  },
-
-"DrS1": {
-    "name":"Drinking Bird"
-    ,"source":"Stockphoto"
-    ,"img":"https://66.media.tumblr.com/cfd905a89e2c8933a53de5b1ae41c79e/97892ac387a38e56-bd/s640x960/e8cd74118b5dbc371cde62449b73db42383bca2e.png"
-    ,"event_variant":"False"
-  },
-
-"FrU1": {
-    "name":"Frisk"
-    ,"source":"Undertale"
-    ,"img":"https://66.media.tumblr.com/8755db23da6e2610fcc9952789a0de38/97892ac387a38e56-04/s640x960/d7798d2fe3d701bb4563a3701560d2a06833428f.png"
-    ,"event_variant":"False"
-  },
-
-"GiJ1": {
-    "name":"Giant Enemy Spider"
-    ,"source":"Jerma985"
-    ,"img":"https://66.media.tumblr.com/fead44e21cea1f86c47d149e42cac22a/97892ac387a38e56-48/s640x960/902e1b173366b2c1089a931f41151e3af58ea416.png"
-    ,"event_variant":"False"
-  },
-
-"GuS1": {
-    "name":"Guillotine"
-    ,"source":"Stockphoto"
-    ,"img":"https://66.media.tumblr.com/45e72fae07092e723e2e4abe937c0dad/97892ac387a38e56-ce/s640x960/1b31744d4d0fd7412d8f2638d702042217e6900d.png"
-    ,"event_variant":"False"
-  },
-
-"KrD1": {
-    "name":"Kris"
-    ,"source":"Deltarune"
-    ,"img":"https://66.media.tumblr.com/a2001d41576ec1b1aa7dff10175806fb/278cb60da7200ae9-5f/s640x960/97435459e9650dc50ef7027fa5b09a926c090f03.png"
-    ,"event_variant":"False"
-  },
-
-"LaD1": {
-    "name":"Lancer"
-    ,"source":"Deltarune"
-    ,"img":"https://66.media.tumblr.com/b557d69be0b6894745072c573f6a8ea5/97892ac387a38e56-4b/s640x960/6ad19038abc9a1dd8e1fa0b6b85130f1c933f681.png"
-    ,"event_variant":"False"
-  },
-
-"LeS1": {
-    "name":"Legs"
-    ,"source":"Stockphoto"
-    ,"img":"https://66.media.tumblr.com/0912f6bc4e503a4adb7c6885dd98ab2f/275aae6586bf521d-c7/s640x960/0fdbc22e4e48abd29db066fc5d6f4af2dc47ca84.png"
-    ,"event_variant":"False"
-  },
-
-"LuL1": {
-    "name":"Lumine (Human)"
-    ,"source":"Lumine"
-    ,"img":"https://66.media.tumblr.com/1d456bcb95eed8ad6257f7be64230207/97892ac387a38e56-9b/s640x960/c36a5cde9c79adc0f9e8e7bed76e78dd1165a4c6.png"
-    ,"event_variant":"False"
-  },
-
-"RaD1": {
-    "name":"Ralsei"
-    ,"source":"Deltarune"
-    ,"img":"https://66.media.tumblr.com/60f4161b3eb7540898d989bb8f823c20/275aae6586bf521d-7d/s640x960/0e9bb6b317986cf0ff3ae0f5c858567d72070574.png"
-    ,"event_variant":"False"
-  },
-
-"ScM1": {
-    "name":"Scallop Spiderman"
-    ,"source":"Meme"
-    ,"img":"https://66.media.tumblr.com/71d13b1af191ef856a448d9a4c90d206/275aae6586bf521d-60/s640x960/9f98f3a2459d835d65c29d2b1c913a4b860eedc3.png"
-    ,"event_variant":"False"
-  },
-
-"ShS1": {
-    "name":"Shaggy"
-    ,"source":"Scooby Doo"
-    ,"img":"https://66.media.tumblr.com/b3e00bb2d17c5ae42fbb8333379e0bf2/275aae6586bf521d-8e/s640x960/797a941431fd5203db484465228529e070afc970.png"
-    ,"event_variant":"False"
-  },
-
-"SmJ1": {
-    "name":"Small Enemy Spider"
-    ,"source":"Jerma985"
-    ,"img":"https://66.media.tumblr.com/d1251e0c765de250b0d23140a519d59d/275aae6586bf521d-91/s640x960/feff91d5e748a1131a3555a7d9379fa3e4c0b062.png"
-    ,"event_variant":"False"
-  },
-
-"TrS1": {
-    "name":"Trash"
-    ,"source":"Stockphoto"
-    ,"img":"https://66.media.tumblr.com/6dc202bf4270df5a6521430cb14348fa/275aae6586bf521d-e9/s640x960/3347425fc92c431de78dec42bfe2f46e8f489620.png"
-    ,"event_variant":"False"
-  }
-}}
+} 
+}

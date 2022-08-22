@@ -1,57 +1,328 @@
-{"rare":
-    {
-    "TeS3": {
-        "name":"Terelli"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://66.media.tumblr.com/5bb718c69a98a2f3115fbbf84c91eb6f/3a02495911711a67-fc/s540x810/a5f80e2db6cbb7ad85f67d0ef0abb15925b3f407.png"
-        ,"event_variant":"False"
-      },
-    "ShS3": {
-        "name":"Shrike"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://66.media.tumblr.com/6d6c6fcf7db806841214e21eae482754/e042b4414053ffed-37/s640x960/e6bad27fe3d9d3b43081dcabc508b2fd24f3e502.png"
-        ,"event_variant":"False"
-      },
-    "D'S3": {
-        "name":"D'artagnan Pembroke"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://66.media.tumblr.com/f30d2d62f27f6e6797fff4728102d06f/e042b4414053ffed-ee/s640x960/2b0d0a0e4d3009f39afc637d411144b12b01b295.png"
-        ,"event_variant":"False"
-      },
-    "SoS3": {
-        "name":"Soto Boto"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://66.media.tumblr.com/79b7d7b24abe660eedea23d5d8f81af8/e042b4414053ffed-a7/s640x960/f85a5c853eff50f4a5eb4950a589367d60b3f505.png"
-        ,"event_variant":"False"
-      },
-    "AbS3": {
-        "name":"Abigail Mason"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://66.media.tumblr.com/3b717ed6227a7e84c93473d10f103abf/e042b4414053ffed-9b/s640x960/409d17a0e4359a6fab78fa8872b93f1da0550db9.png"
-        ,"event_variant":"False"
-      },
-    "MeT3": {
-        "name":"Merle Hitower Highchurch"
-        ,"source":"The Adventure Zone"
-        ,"img":"https://66.media.tumblr.com/892d0b1f1900048d83110e2338eb6960/e042b4414053ffed-74/s640x960/9a09b2f0f48149746e5a86c5efd9e99f5bd5c48d.png"
-        ,"event_variant":"False"
-      },
-    "MaT3": {
-        "name":"Magnus Burnsides"
-        ,"source":"The Adventure Zone"
-        ,"img":"https://66.media.tumblr.com/75c2bbedd2d66315c5d4fdb6a235e1b3/e042b4414053ffed-e9/s640x960/e6302457ad04ff2cbd3a3518a8a1f871a028600e.png"
-        ,"event_variant":"False"
-      },
-    "TaT3": {
-        "name":"Taako Taaco"
-        ,"source":"The Adventure Zone"
-        ,"img":"https://66.media.tumblr.com/ca4b314e9fecbb1c883176d0a3789861/e042b4414053ffed-f8/s640x960/b9c803940b6ed0ed860c96999dd9e71e03eea45a.png"
-        ,"event_variant":"False"
-      },
-    "QuT3": {
-        "name":"Quintin Cai"
-        ,"source":"Thot Patrol"
-        ,"img":"https://66.media.tumblr.com/959a079b7387ec238341101bfcab061d/e042b4414053ffed-c4/s640x960/51b0e65ff7c46100a6ecca03f1a85536d9c313fe.png"
-        ,"event_variant":"False"
-      }
-}}
+{
+"rare": {
+"AbS3": { 
+    "name":"Abigail Mason",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/9O48hBi.png",
+    "event_variant":"FALSE"  
+},
+"BiG3": { 
+    "name":"Bill Cipher",
+    "source":"Gravity Falls",
+    "img":"https://i.imgur.com/9PI5rLn.png",
+    "event_variant":"FALSE"  
+},
+"BlM3": { 
+    "name":"Black Panther",
+    "source":"Marvel",
+    "img":"https://i.imgur.com/6ksqlia.png",
+    "event_variant":"FALSE"  
+},
+"BlR3": { 
+    "name":"Blake Belladonna",
+    "source":"RWBY",
+    "img":"https://i.imgur.com/otTrVJB.png",
+    "event_variant":"FALSE"  
+},
+"BoK3": { 
+    "name":"Bot",
+    "source":"Kawaii Pet MEGU",
+    "img":"https://i.imgur.com/B1EbUPo.png",
+    "event_variant":"FALSE"  
+},
+"ChH3": { 
+    "name":"Charon",
+    "source":"Hades",
+    "img":"https://i.imgur.com/30fDrEJ.png",
+    "event_variant":"FALSE"  
+},
+"CuP3": { 
+    "name":"Cubchoo with Bow",
+    "source":"Pokemon GO",
+    "img":"https://i.imgur.com/YsOwG1Z.png",
+    "event_variant":"FALSE"  
+},
+"DtS3": { 
+    "name":"D'artagnan Pembroke",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/Lr4g2NF.png",
+    "event_variant":"FALSE"  
+},
+"DuP3": { 
+    "name":"Dusknoir",
+    "source":"Pokemon Mystery Dungeon",
+    "img":"https://i.imgur.com/zCATPX6.png",
+    "event_variant":"FALSE"  
+},
+"GiP3": { 
+    "name":"Giovanni",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/36HVI23.png",
+    "event_variant":"FALSE"  
+},
+"GrD3": { 
+    "name":"Gravelord Nito",
+    "source":"Dark Souls",
+    "img":"https://i.imgur.com/8S4vDDB.png",
+    "event_variant":"FALSE"  
+},
+"HaD3": { 
+    "name":"Harry Dubois",
+    "source":"Disco Elysium",
+    "img":"https://i.imgur.com/GuUtIxw.png",
+    "event_variant":"FALSE"  
+},
+"HeA3": { 
+    "name":"Herlocke Sholmes",
+    "source":"Ace Attorney",
+    "img":"https://i.imgur.com/tzPH60q.png",
+    "event_variant":"FALSE"  
+},
+"JaE3": { 
+    "name":"Jaime Moriarty",
+    "source":"Elementary",
+    "img":"https://i.imgur.com/afNDQv5.png",
+    "event_variant":"FALSE"  
+},
+"JaH3": { 
+    "name":"Jade Harley",
+    "source":"Homestuck",
+    "img":"https://i.imgur.com/l86JF6d.png",
+    "event_variant":"FALSE"  
+},
+"JiY3": { 
+    "name":"Jibanyan",
+    "source":"Yokai Watch",
+    "img":"https://i.imgur.com/LTJDyuc.png",
+    "event_variant":"FALSE"  
+},
+"KaK3": { 
+    "name":"Kamen Rider W",
+    "source":"Kamen Rider",
+    "img":"https://i.imgur.com/zIPR38l.png",
+    "event_variant":"FALSE"  
+},
+"KhB3": { 
+    "name":"Khalila",
+    "source":"Babes in the Park",
+    "img":"https://i.imgur.com/eLQTgFM.png",
+    "event_variant":"FALSE"  
+},
+"KiS3": { 
+    "name":"Kingpin",
+    "source":"Spider-Man: Into The Spider-Verse",
+    "img":"https://i.imgur.com/R1exm6k.png",
+    "event_variant":"FALSE"  
+},
+"LeB3": { 
+    "name":"Leif",
+    "source":"Bug Fables",
+    "img":"https://i.imgur.com/QR6Gb4T.png",
+    "event_variant":"FALSE"  
+},
+"LuM3": { 
+    "name":"Luigi Mario",
+    "source":"Mario Bros (1993)",
+    "img":"https://i.imgur.com/9NvM1t4.png",
+    "event_variant":"FALSE"  
+},
+"MaD3": { 
+    "name":"Matt Murdock",
+    "source":"Daredevil",
+    "img":"https://i.imgur.com/VaxceLF.png",
+    "event_variant":"FALSE"  
+},
+"MaK3": { 
+    "name":"Marshmal",
+    "source":"Kawaii Pet MEGU",
+    "img":"https://i.imgur.com/PmaOq7m.png",
+    "event_variant":"FALSE"  
+},
+"MaM3": { 
+    "name":"Mario Mario",
+    "source":"Mario Bros (1993)",
+    "img":"https://i.imgur.com/XuuZUeD.png",
+    "event_variant":"FALSE"  
+},
+"MaT3": { 
+    "name":"Magnus Burnsides",
+    "source":"The Adventure Zone",
+    "img":"https://i.imgur.com/7jqBdD6.png",
+    "event_variant":"FALSE"  
+},
+"MeP3": { 
+    "name":"Mega Rayquaza",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/HRBDc08.png",
+    "event_variant":"FALSE"  
+},
+"MeT3": { 
+    "name":"Merle Hitower Highchurch",
+    "source":"The Adventure Zone",
+    "img":"https://i.imgur.com/ET3LVtc.png",
+    "event_variant":"FALSE"  
+},
+"MgT3": { 
+    "name":"Megatron",
+    "source":"Transformers",
+    "img":"https://i.imgur.com/U7sDf5T.png",
+    "event_variant":"FALSE"  
+},
+"NoD3": { 
+    "name":"Noelle",
+    "source":"Deltarune",
+    "img":"https://i.imgur.com/AWDbyTG.png",
+    "event_variant":"FALSE"  
+},
+"OnI3": { 
+    "name":"One-One",
+    "source":"Infinity Train",
+    "img":"https://i.imgur.com/PC8ruVz.png",
+    "event_variant":"FALSE"  
+},
+"PhA3": { 
+    "name":"Phoenix Wright",
+    "source":"Ace Attorney",
+    "img":"https://i.imgur.com/KLIsupE.png",
+    "event_variant":"FALSE"  
+},
+"PiP3": { 
+    "name":"Pikachu",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/8JiBUDt.png",
+    "event_variant":"FALSE"  
+},
+"PrP3": { 
+    "name":"Problem Sleuth",
+    "source":"Problem Sleuth",
+    "img":"https://i.imgur.com/dqVzXQ5.png",
+    "event_variant":"FALSE"  
+},
+"QuT3": { 
+    "name":"Quintin Cai",
+    "source":"Thot Patrol",
+    "img":"https://i.imgur.com/x1W0pT3.png",
+    "event_variant":"FALSE"  
+},
+"RON3": { 
+    "name":"R.O.B",
+    "source":"Nintendo Entertainment System Accessory",
+    "img":"https://i.imgur.com/Qh6WMeR.png",
+    "event_variant":"FALSE"  
+},
+"SaS3": { 
+    "name":"Shadow the Hedgehog",
+    "source":"Sonic The Hedgehog",
+    "img":"https://i.imgur.com/C4Pvvs9.png",
+    "event_variant":"FALSE"  
+},
+"ShP3": { 
+    "name":"Sherlock Holmes",
+    "source":"Public Domain",
+    "img":"https://i.imgur.com/x9j2HSb.png",
+    "event_variant":"FALSE"  
+},
+"ShS3": { 
+    "name":"Shrike",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/qq9sNyu.png",
+    "event_variant":"FALSE"  
+},
+"SmS3": { 
+    "name":"Shadow Man",
+    "source":"Shadow Man",
+    "img":"https://i.imgur.com/dgFgDws.png",
+    "event_variant":"FALSE"  
+},
+"SnP3": { 
+    "name":"Snorlax",
+    "source":"Pokemon",
+    "img":"https://i.imgur.com/mJI6LCW.png",
+    "event_variant":"FALSE"  
+},
+"SoS3": { 
+    "name":"Soto Boto",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/xQuiqgb.png",
+    "event_variant":"FALSE"  
+},
+"SpS3": { 
+    "name":"Space Ghost",
+    "source":"Space Ghost",
+    "img":"https://i.imgur.com/tImVVhP.png",
+    "event_variant":"FALSE"  
+},
+"TaT3": { 
+    "name":"Taako Taaco",
+    "source":"The Adventure Zone",
+    "img":"https://i.imgur.com/oy6LUqF.png",
+    "event_variant":"FALSE"  
+},
+"TeS3": { 
+    "name":"Terelli",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/GLWakcL.png",
+    "event_variant":"FALSE"  
+},
+"ThD3": { 
+    "name":"The Flash",
+    "source":"DC",
+    "img":"https://i.imgur.com/CD0SYyG.png",
+    "event_variant":"FALSE"  
+},
+"ThH3": { 
+    "name":"The Midnight Crew",
+    "source":"Homestuck",
+    "img":"https://i.imgur.com/DnHQOQk.png",
+    "event_variant":"FALSE"  
+},
+"ToU3": { 
+    "name":"Toriel",
+    "source":"Undertale",
+    "img":"https://i.imgur.com/bTegJxA.png",
+    "event_variant":"FALSE"  
+},
+"TuT3": { 
+    "name":"Turbo",
+    "source":"Turbo: FAST",
+    "img":"https://i.imgur.com/5mzNVQQ.png",
+    "event_variant":"FALSE"  
+},
+"UnL3": { 
+    "name":"Uncle Death",
+    "source":"Let It Die",
+    "img":"https://i.imgur.com/o1DZ8KT.png",
+    "event_variant":"FALSE"  
+},
+"WaB3": { 
+    "name":"Walter White",
+    "source":"Breaking Bad",
+    "img":"https://i.imgur.com/hLTSeL2.png",
+    "event_variant":"FALSE"  
+},
+"YaR3": { 
+    "name":"Yang Xiao Long",
+    "source":"RWBY",
+    "img":"https://i.imgur.com/729YPGS.png",
+    "event_variant":"FALSE"  
+},
+"YeB3": { 
+    "name":"Yesper Freeman",
+    "source":"Babes in the Park",
+    "img":"https://i.imgur.com/jfYjXl9.png",
+    "event_variant":"FALSE"  
+},
+"YuY3": { 
+    "name":"Yugi Moto",
+    "source":"Yu-Gi-Oh",
+    "img":"https://i.imgur.com/ON932bl.png",
+    "event_variant":"FALSE"  
+},
+"ZeM3": { 
+    "name":"Zero",
+    "source":"Megaman X",
+    "img":"https://i.imgur.com/HtiNuox.png",
+    "event_variant":"FALSE"  
+}
+} 
+}

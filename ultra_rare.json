@@ -1,23 +1,76 @@
-{"ultra_rare":
-    {
-    "KiD5": {
-        "name":"Kim Kitsuragi"
-        ,"source":"Disco Elysium"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715072116005011466/kim_disco.png"
-        ,"event_variant":"False"
-      },
-
-    "PrS5": {
-        "name":"Princess Peach"
-        ,"source":"Super Mario Bros."
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715072115228803082/princess_super.png"
-        ,"event_variant":"False"
-      },
-
-    "NoS5": {
-        "name":"Norman Pembroke"
-        ,"source":"Supers and Dragons"
-        ,"img":"https://cdn.discordapp.com/attachments/537844484948361227/715070824591261747/norman.png"
-        ,"event_variant":"False"
-      }
-}}
+{
+"ultra_rare": {
+"AsK5": { 
+    "name":"Astromot",
+    "source":"Kawaii Pet MEGU",
+    "img":"https://i.imgur.com/YuBK3yZ.png",
+    "event_variant":"FALSE"  
+},
+"CaD5": { 
+    "name":"Cayde-6",
+    "source":"Destiny 2",
+    "img":"https://i.imgur.com/6UThCrX.png",
+    "event_variant":"FALSE"  
+},
+"KeM5": { 
+    "name":"Kermit The Frog",
+    "source":"Muppets",
+    "img":"https://i.imgur.com/BHhebzg.png",
+    "event_variant":"FALSE"  
+},
+"KiD5": { 
+    "name":"Kim Kitsuragi",
+    "source":"Disco Elysium",
+    "img":"https://i.imgur.com/Xi3fVgM.png",
+    "event_variant":"FALSE"  
+},
+"MiT5": { 
+    "name":"Miss Piggy",
+    "source":"The Muppets",
+    "img":"https://i.imgur.com/TQBh33u.png",
+    "event_variant":"FALSE"  
+},
+"NoS5": { 
+    "name":"Norman Pembroke",
+    "source":"Supers and Dragons",
+    "img":"https://i.imgur.com/Jwlm73F.png",
+    "event_variant":"FALSE"  
+},
+"PrS5": { 
+    "name":"Princess Peach",
+    "source":"Super Mario Bros.",
+    "img":"https://i.imgur.com/dfG14Yp.png",
+    "event_variant":"FALSE"  
+},
+"SoK5": { 
+    "name":"Sora",
+    "source":"Kingdom Hearts",
+    "img":"https://i.imgur.com/cY6cyzu.png",
+    "event_variant":"FALSE"  
+},
+"ThT5": { 
+    "name":"The Onceler",
+    "source":"The Lorax",
+    "img":"https://i.imgur.com/heKYy05.png",
+    "event_variant":"FALSE"  
+},
+"VeD5": { 
+    "name":"Vegeta (Badman Shirt)",
+    "source":"Dragon Ball Z",
+    "img":"https://i.imgur.com/RbJK091.png",
+    "event_variant":"FALSE"  
+},
+"VeM5": { 
+    "name":"Venom",
+    "source":"Marvel",
+    "img":"https://i.imgur.com/H1UvNTW.png",
+    "event_variant":"FALSE"  
+},
+"WiM5": { 
+    "name":"Wizard Pondering Orb",
+    "source":"Meme",
+    "img":"https://i.imgur.com/RPRVJME.png",
+    "event_variant":"FALSE"  
+}
+} 
+}
